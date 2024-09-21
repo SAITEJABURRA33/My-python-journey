@@ -27,7 +27,7 @@ x = ("apple", "banana", "cherry")	            tuple
 x = range(6)	                                range	
 x = {"name" : "John", "age" : 36}	            dict	
 x = {"apple", "banana", "cherry"}	            set	
-x = frozenset({"apple", "banana", "cherry"})	frozenset	
+x = frozenset({"apple", "banana", "cherry"})    frozenset	
 x = True	                                    bool	
 x = b"Hello"	                                bytes	
 x = bytearray(5)	                            bytearray	
@@ -142,6 +142,7 @@ Python does not have a random() function to make a random number, but Python has
 
 ## Example
 Import the random module, and display a random number between 1 and 9:
+
 ```
 import random
 
