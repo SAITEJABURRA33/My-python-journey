@@ -1,0 +1,2 @@
+for x in "saiteja":
+  print(x)

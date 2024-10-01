@@ -1,0 +1,2 @@
+a = "iam belongs to ramagundam"
+print(len(a))

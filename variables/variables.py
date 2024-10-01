@@ -4,7 +4,6 @@ Burra = ["Burra komuraiah", "Burra veeralaxmi", "Burra Ramu", "Burra Saiteja", "
 a, b, c = pabba
 x , y, z, s, v = Burra
 
-print(z)
+print(a)
+print(b)
 print(c)
-print(s)
-print(v)

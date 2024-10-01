@@ -1,0 +1,10 @@
+a = """hi first of all thank u for giving this opporuntity to introduce my self"""
+b = """my name is saiteja iam came from peddapalli dist,Currently Staying in Hyderabad.
+I completed my graduatuon in 2023 from vaageswari collge of engineering, before that I have completed my Diploma from Government Polytechnic Kataram in 2020, and
+schooling from Sri Akshara High School in 2017."""
+c = """my hobbies Includes playing cricket and staying updated with latest technologies.
+I conclude my self as quick and eager Learner, that's a brief introduction about me."""
+       
+print(a)
+print(b)
+print(c)

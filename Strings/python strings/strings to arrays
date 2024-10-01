@@ -1,0 +1,5 @@
+x = "hi my name is saiteja"
+y = "iam from godavarikhani"
+
+print(x[13])
+print(y[12])
